@@ -1,7 +1,7 @@
 # No whitespace after the comma or in your part name!
 config SHIELD_MY_KEYBOARD_LEFT
-    def_bool $(shields_list_contains,left_coookie)
+    def_bool $(shields_list_contains,coookie_left)
 
 # No whitespace after the comma or in your part name!
 config SHIELD_MY_KEYBOARD_RIGHT
-    def_bool $(shields_list_contains,right_coookie)
+    def_bool $(shields_list_contains,coookie_right)
